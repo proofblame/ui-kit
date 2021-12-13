@@ -1,0 +1,17 @@
+@import url('./vendor/reset.css');
+@import url('./vendor/fonts.css');
+@import url('./blocks//blocks.css');
+
+.container {
+  font-family: 'Roboto', sans-serif;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.elements {
+  margin-bottom: 50px;
+}
+.row {
+  margin-bottom: 20px;
+}
